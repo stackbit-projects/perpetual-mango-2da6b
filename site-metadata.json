@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/nclusive-logo.svg",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "nclusive logo",
         "has_nav": true,
         "nav_links": [
             {
