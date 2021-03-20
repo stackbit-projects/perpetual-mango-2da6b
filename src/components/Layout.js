@@ -43,7 +43,7 @@ export default class Body extends React.Component {
                     {(font === 'nunito-sans') ? (
                     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet"/>
                     ) : ((font === 'fira-sans') && (
-                    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet"/>
+                    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet"/>
                     ))}
                     {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
