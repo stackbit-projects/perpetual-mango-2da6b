@@ -10,13 +10,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-@each $font, $stack in $theme-fonts {
-  $font-suffix: "#{$font}";
-
-  .font-#{$font-suffix} {
-    font-family: $stack;
-  }
-}
 
 a {
   color: $color-primary;
