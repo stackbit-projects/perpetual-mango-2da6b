@@ -41,7 +41,7 @@ export default class Body extends React.Component {
                     <link rel="preconnect" href="https://fonts.gstatic.com"/>
                     )}
                     {(font === 'nunito-sans') ? (
-                    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+                    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet"/>
                     ) : ((font === 'fira-sans') && (
                     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet"/>
                     ))}
