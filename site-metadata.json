@@ -132,5 +132,6 @@
         "content": "&copy; nclusive. All rights reserved."
     },
     "title": "nclusiv",
-    "domain": "https://perpetual-mango-2da6b.netlify.app"
+    "domain": "https://perpetual-mango-2da6b.netlify.app",
+    "favicon": "images/nclusive-favicon.svg"
 }
