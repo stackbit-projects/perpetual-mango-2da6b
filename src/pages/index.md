@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/banner-bg.png
     image_alt: App preview
     title: Is your website accessible to everyone?
     content: >-
