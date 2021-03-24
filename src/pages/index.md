@@ -98,7 +98,7 @@ sections:
       - label: Contact Us
         url: /signup
         style: primary
-      - label: lorem-ipsum
+      - label: Call us at 555-555-5555
         url: 'tel:555-555-5555'
         style: link
         has_icon: false
