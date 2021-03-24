@@ -18,8 +18,9 @@ sections:
     background: gray
     title: Our Accessibility Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Whether you're starting a new project & want to make sure you're thinking
+      about accessibility from the start or looking to bring your current site
+      into compliance, we're happy to help.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
