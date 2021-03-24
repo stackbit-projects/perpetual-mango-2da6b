@@ -98,7 +98,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-    subtitle: asfdasdf
+    subtitle: We’re happy to meet to discuss your project
   - section_id: recent-posts
     type: section_posts
     background: gray
