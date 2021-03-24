@@ -98,6 +98,15 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     subtitle: We’re happy to meet to discuss your project
   - section_id: recent-posts
     type: section_posts
