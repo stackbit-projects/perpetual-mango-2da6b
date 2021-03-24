@@ -95,7 +95,7 @@ sections:
     type: section_cta
     title: Set up a free consultation
     actions:
-      - label: Get Started
+      - label: Contact Us
         url: /signup
         style: primary
       - label: lorem-ipsum
