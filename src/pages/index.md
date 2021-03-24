@@ -22,7 +22,7 @@ sections:
       about accessibility from the start or looking to bring your current site
       into compliance, we're happy to help.
     features:
-      - title: The Best Feature of Your Services
+      - title: Accessibility Testing & Audits
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
