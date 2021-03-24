@@ -6,9 +6,9 @@ sections:
     image: images/banner-bg.png
     image_alt: App preview
     title: Is your website accessible to everyone?
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Helping businesses, agencies, and startups navigate to complexities of web
+      accessibility
     actions:
       - label: Learn More
         url: /features
