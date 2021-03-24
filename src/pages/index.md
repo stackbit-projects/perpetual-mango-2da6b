@@ -94,7 +94,6 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Set up a free consultation
-    subtitle: We’re happy to meet to discuss your project
     actions:
       - label: Get Started
         url: /signup
