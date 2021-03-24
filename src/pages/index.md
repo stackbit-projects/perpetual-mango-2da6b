@@ -99,7 +99,7 @@ sections:
         url: /signup
         style: primary
       - label: lorem-ipsum
-        url: '#'
+        url: 'tel:555-555-5555'
         style: link
         has_icon: false
         icon: arrow-left
